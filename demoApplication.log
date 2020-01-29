@@ -1,0 +1,3 @@
+[main] DEBUG com.zblash.jwt.examples.Examples  - eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJuYW1lIjoiSm9obiBEb2UiLCJlbWFpbCI6ImpvaG5kb2VAZXhhbXBsZW1haWwuY29tIiwiYWdlIjo0MiwiZXhwIjoxNTgwMzk5NTEwfQ.AAlrRfMnLNdpTec0V-bIWULrOczWsjCx2Oe13N4nl3mIxymZXw3QUk7WPYq3sIyDfNc8zhlnMEGalY9oAywV7Q
+[main] DEBUG com.zblash.jwt.examples.Examples  - eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJuYW1lIjoiWXVzdWYgQ2FuIiwiZW1haWwiOiJ5dXN1ZmNhbmNlbGlrQGhvdG1haWwuY29tIiwiYWdlIjoyMywiZXhwIjoxNTgwNDAwNDM2fQ.3ksw1V0oB7Q2YerFCE6WpSP9bMROX32vSVg66yermHxsbVzKaSpF1wnOFeDzMAC2su5_QBDs8SW34I0E99wlTw
+[main] DEBUG com.zblash.jwt.examples.Examples  - {name=Yusuf Can, email=yusufcancelik@hotmail.com, age=23, exp=1580400436}
